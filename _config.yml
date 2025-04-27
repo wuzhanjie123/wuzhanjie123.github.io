@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "zhanjie Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "CQUPT & OpenTVI"
   location         : "Chongqing"
-  employer         : "Chongqing University of Posts and Telecommunications"
+  # employer         : "Chongqing University of Posts and Telecommunications"
   uri              : # URL
   email            : "s230201119@stu.cqupt.edu.cn" 
 
