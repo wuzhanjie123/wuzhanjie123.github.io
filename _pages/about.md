@@ -13,7 +13,7 @@ Hi~, My name is **Zhanjie Wu (吴占杰)**, currently a master's student at [Ope
 
 Highlights and News
 =======
-
+- 2023.07.15 two papers are accepted by ICME 2024!
 
 
 Projects
