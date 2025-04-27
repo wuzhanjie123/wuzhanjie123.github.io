@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi~, My name is **Zhanjie Wu (吴占杰)**, currently a master's student at **OpenTVI**, Chongqing University of Posts and Telecommunications. I am conducting research under the guidance of Prof. [Xinbo Gao](https://scholar.google.com/citations?hl=en&user=VZVTOOIAAAAJ) **(IEEE Fellow)** and primarily under the supervision of Prof. Jiaxu Leng. Prior to that, I got my B.Eng. Degree from Chongqing University of Posts and Telecommunications.
+Hi~, My name is **Zhanjie Wu (吴占杰)**, currently a master's student at [OpenTVI](https://opentvi.github.io/), Chongqing University of Posts and Telecommunications. I am conducting research under the guidance of Prof. [Xinbo Gao](https://scholar.google.com/citations?hl=en&user=VZVTOOIAAAAJ) **(IEEE Fellow)** and primarily under the supervision of Prof. [Jiaxu Leng](https://opentvi.github.io/team-ljx.html). Prior to that, I got my B.Eng. Degree from Chongqing University of Posts and Telecommunications.
 
 
 Highlights and News
