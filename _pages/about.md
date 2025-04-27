@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 
-Hi, My name is Zhanjie Wu (吴占杰). I am currently pursuing my master's degree at the College of Computer Science, Chongqing University of Posts and Telecommunications, under the joint supervision of Prof. Xinbo Gao and Prof. Jiaxu Leng.
+Hi~, My name is Zhanjie Wu (吴占杰), currently a master's student at OpenTVI, Chongqing University of Posts and Telecommunications. I am conducting research under the guidance of Prof. Xinbo Gao (IEEE Fellow) and primarily under the supervision of Prof. Jiaxu Leng. Prior to that, I got my B.Eng. Degree from Chongqing University of Posts and Telecommunications.
+
+
+Highlights and News
+=======
 
 A data-driven personal website
 ======
