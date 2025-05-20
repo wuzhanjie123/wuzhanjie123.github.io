@@ -29,7 +29,7 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/ICME_MVFD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/ICME_MVFD.png' alt="sym" width="130%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MODALITY-FREE VIOLENCE DETECTION VIA CROSS-MODAL CAUSAL ATTENTION AND FEATURE DISTILLATION](https://ieeexplore.ieee.org/document/10688031)
