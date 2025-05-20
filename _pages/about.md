@@ -24,6 +24,7 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+- *2024.07*: &nbsp;🎉🎉 My research is granted by Chongqing Graduate Research Innovation Program.
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024). Congrats to Yiran!
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024).
 
@@ -39,6 +40,7 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
   Yiran Liu, **Zhanjie Wu**, Mengjingcheng Mo, Ji Gan, Jiaxu Leng, Xinbo Gao
 
 # 🎖 Honors and Awards
+- *2024.07* Honored to be awarded a research grant by Chongqing Graduate Research Innovation Program.
 - *2022.08* Honored to win the First Prize in the 15th China Collegiate Computing Competition (CCCC).
 - *2022.08* Honored to win the Second Prize in Western China Region at the 16th Siemens Cup China Smart Manufacturing Competition.
 - *2022.08* Honored to win the Second Prize in the Southwest China Division of the China Collegiate Computing Competition - Network Technology Challenge.
