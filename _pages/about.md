@@ -35,9 +35,6 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 [MODALITY-FREE VIOLENCE DETECTION VIA CROSS-MODAL CAUSAL ATTENTION AND FEATURE DISTILLATION](https://ieeexplore.ieee.org/document/10688031)
 
 Jiaxu Leng, **Zhanjie Wu**, Mengjingcheng Mo, Mingpi Tan, Shuang Li, Xinbo Gao.
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
