@@ -35,8 +35,9 @@ Jiaxu Leng, **Zhanjie Wu**, Mengjingcheng Mo, Mingpi Tan, Shuang Li, Xinbo Gao
 Yiran Liu, **Zhanjie Wu**, Mengjingcheng Mo, Ji Gan, Jiaxu Leng, Xinbo Gao
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Honored to win the First Prize in the 15th China Collegiate Computing Competition (CCCC). 
+- *2022.08* Honored to win the First Prize in the 15th China Collegiate Computing Competition (CCCC).
+- *2022.08* Honored to win 2nd Place in Western China Region at the 16th Siemens Cup China Smart Manufacturing Competition.
+- *2022.08* Honored to win the Second Prize in the Southwest China Division of the China Collegiate Computing Competition - Network Technology Challenge.
 
 # 📖 Educations
 - *2023.06 - now*, Master, Chongqing University of Posts and Telecommunications.
