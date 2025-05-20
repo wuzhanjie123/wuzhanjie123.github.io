@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-# description              : ""
+description              : ""
 repository               : "wuzhanjie123/wuzhanjie123.github.io"
 google_scholar_stats_use_cdn : true
 
