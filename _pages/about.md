@@ -29,7 +29,7 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 
 # 📝 Publications 
 - ***[NeurIPS'24]*** [Beyond Euclidean: Dual-Space Representation Learning for Weakly Supervised Video Violence Detection](https://proceedings.neurips.cc/paper_files/paper/2024/file/1f471322127d6347e5ae09a14b1e5cf7-Paper-Conference.pdf), Jiaxu Leng, **Zhanjie Wu**, Mingpi Tan, Yiran Liu, Ji Gan, Haosheng Chen, Xinbo Gao
-- ***[ICME'24]*** [MODALITY-FREE VIOLENCE DETECTION VIA CROSS-MODAL CAUSAL ATTENTION AND FEATURE DISTILLATION](https://ieeexplore.ieee.org/document/10688031)
+- ***[ICME'24]*** [Modality-Free Violence Detection via Cross-Modal Causal Attention and Feature Distillation](https://ieeexplore.ieee.org/document/10688031)
 Jiaxu Leng, **Zhanjie Wu**, Mengjingcheng Mo, Mingpi Tan, Shuang Li, Xinbo Gao
 - ***[ICME'24]*** [Dual Space Embedding Learning For Weakly Supervised Audio-Visual Violence Detection](https://ieeexplore.ieee.org/document/10687755)
 Yiran Liu, **Zhanjie Wu**, Mengjingcheng Mo, Ji Gan, Jiaxu Leng, Xinbo Gao
