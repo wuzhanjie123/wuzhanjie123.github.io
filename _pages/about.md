@@ -40,7 +40,7 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 
 # 🎖 Honors and Awards
 - *2022.08* Honored to win the First Prize in the 15th China Collegiate Computing Competition (CCCC).
-- *2022.08* Honored to win 2nd Place in Western China Region at the 16th Siemens Cup China Smart Manufacturing Competition.
+- *2022.08* Honored to win the Second Prize in Western China Region at the 16th Siemens Cup China Smart Manufacturing Competition.
 - *2022.08* Honored to win the Second Prize in the Southwest China Division of the China Collegiate Computing Competition - Network Technology Challenge.
 
 # 📖 Educations
