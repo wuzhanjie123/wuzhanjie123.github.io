@@ -32,7 +32,7 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 Jiaxu Leng, **Zhanjie Wu**, Mengjingcheng Mo, Mingpi Tan, Shuang Li, Xinbo Gao.
 
 
-- **[NeurIPS'24]**[Beyond Euclidean: Dual-Space Representation Learning for Weakly Supervised Video Violence Detection](https://proceedings.neurips.cc/paper_files/paper/2024/file/1f471322127d6347e5ae09a14b1e5cf7-Paper-Conference.pdf), Jiaxu Leng, **Zhanjie Wu**, Mingpi Tan, Yiran Liu, Ji Gan, Haosheng Chen, Xinbo Gao
+- ***[NeurIPS'24]***[Beyond Euclidean: Dual-Space Representation Learning for Weakly Supervised Video Violence Detection](https://proceedings.neurips.cc/paper_files/paper/2024/file/1f471322127d6347e5ae09a14b1e5cf7-Paper-Conference.pdf), Jiaxu Leng, **Zhanjie Wu**, Mingpi Tan, Yiran Liu, Ji Gan, Haosheng Chen, Xinbo Gao
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
