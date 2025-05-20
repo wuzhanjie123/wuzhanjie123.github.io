@@ -28,15 +28,9 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024).
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/ICME_MVFD.png' alt="sym" width="130%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MODALITY-FREE VIOLENCE DETECTION VIA CROSS-MODAL CAUSAL ATTENTION AND FEATURE DISTILLATION](https://ieeexplore.ieee.org/document/10688031)
-
+- [MODALITY-FREE VIOLENCE DETECTION VIA CROSS-MODAL CAUSAL ATTENTION AND FEATURE DISTILLATION](https://ieeexplore.ieee.org/document/10688031)
 Jiaxu Leng, **Zhanjie Wu**, Mengjingcheng Mo, Mingpi Tan, Shuang Li, Xinbo Gao.
-</div>
-</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
