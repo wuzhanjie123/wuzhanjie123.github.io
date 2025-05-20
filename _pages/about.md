@@ -23,8 +23,9 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One paper has been accepted by The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+- *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024). Congrats to Yiran!
+- *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024).
 
 # 📝 Publications 
 
