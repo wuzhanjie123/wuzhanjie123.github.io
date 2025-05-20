@@ -36,7 +36,7 @@ Yiran Liu, **Zhanjie Wu**, Mengjingcheng Mo, Ji Gan, Jiaxu Leng, Xinbo Gao
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Honored to win the First Prize in the 15th China Collegiate Computing Competition (CCCC). 
 
 # 📖 Educations
 - *2023.06 - now*, Master, Chongqing University of Posts and Telecommunications.
