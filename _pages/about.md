@@ -28,16 +28,29 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024). Congrats to Yiran!
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024).
 
-# 📝 Publications 
-- ***[NeurIPS'24]*** [Beyond Euclidean: Dual-Space Representation Learning for Weakly Supervised Video Violence Detection](https://proceedings.neurips.cc/paper_files/paper/2024/file/1f471322127d6347e5ae09a14b1e5cf7-Paper-Conference.pdf)
+# 📝 Publications
 
-  Jiaxu Leng, **Zhanjie Wu**, Mingpi Tan, Yiran Liu, Ji Gan, Haosheng Chen, Xinbo Gao (First-author student)
-- ***[ICME'24]*** [Modality-Free Violence Detection via Cross-Modal Causal Attention and Feature Distillation](https://ieeexplore.ieee.org/document/10688031)
+### 📌 [NeurIPS 2024]  
+**Beyond Euclidean: Dual-Space Representation Learning for Weakly Supervised Video Violence Detection**  
+📄 [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/1f471322127d6347e5ae09a14b1e5cf7-Paper-Conference.pdf) | 💻 [Code](https://github.com/wuzhanjie123/DSRL)  
+*Jiaxu Leng, **Zhanjie Wu**, Mingpi Tan, Yiran Liu, Ji Gan, Haosheng Chen, Xinbo Gao*  
+_(First-author student)_
 
-  Jiaxu Leng, **Zhanjie Wu**, Mengjingcheng Mo, Mingpi Tan, Shuang Li, Xinbo Gao (First-author student)
-- ***[ICME'24]*** [Dual Space Embedding Learning For Weakly Supervised Audio-Visual Violence Detection](https://ieeexplore.ieee.org/document/10687755)
+---
 
-  Yiran Liu, **Zhanjie Wu**, Mengjingcheng Mo, Ji Gan, Jiaxu Leng, Xinbo Gao
+### 📌 [ICME 2024]  
+**Modality-Free Violence Detection via Cross-Modal Causal Attention and Feature Distillation**  
+📄 [Paper](https://ieeexplore.ieee.org/document/10688031)  
+*Jiaxu Leng, **Zhanjie Wu**, Mengjingcheng Mo, Mingpi Tan, Shuang Li, Xinbo Gao*  
+_(First-author student)_
+
+---
+
+### 📌 [ICME 2024]  
+**Dual Space Embedding Learning For Weakly Supervised Audio-Visual Violence Detection**  
+📄 [Paper](https://ieeexplore.ieee.org/document/10687755)  
+*Yiran Liu, **Zhanjie Wu**, Mengjingcheng Mo, Ji Gan, Jiaxu Leng, Xinbo Gao*
+
 
 # 🎖 Honors and Awards
 - *2024.07* Honored to be awarded a research grant by Chongqing Graduate Research Innovation Program.
