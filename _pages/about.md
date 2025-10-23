@@ -63,6 +63,7 @@ _(First-author student)_
 
 
 # 🎖 Honors and Awards
+- *2025.10* Received the National Scholarship and the Gongjin Scholarship.
 - *2024.07* Honored to be awarded a research grant by Chongqing Graduate Research Innovation Program.
 - *2022.08* Honored to win the First Prize in the 15th China Collegiate Computing Competition (CCCC).
 - *2022.08* Honored to win the Second Prize in Western China Region at the 16th Siemens Cup China Smart Manufacturing Competition.
