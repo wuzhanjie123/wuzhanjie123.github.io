@@ -23,12 +23,22 @@ My main research focus is on Weakly-supervised Video Anomaly Detection, particul
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2025).
 - *2024.09*: &nbsp;🎉🎉 One paper has been accepted by The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
 - *2024.07*: &nbsp;🎉🎉 My research is granted by Chongqing Graduate Research Innovation Program.
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024). Congrats to Yiran!
 - *2024.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Conference on Mutilmedia Expo (ICME 2024).
 
 # 📝 Publications
+
+### 📌 [TPAMI 2025]  
+**PiercingEye: Dual-Space Video Violence Detection With Hyperbolic Vision-Language Guidance**  
+📄 [Paper](https://ieeexplore.ieee.org/document/11192585)
+*Jiaxu Leng, **Zhanjie Wu**, Mingpi Tan, Mengjingcheng Mo, Jiankang Zheng, Qingqing Li, Ji Gan, Xinbo Gao*  
+_(First-author student)_
+
+---
+
 
 ### 📌 [NeurIPS 2024]  
 **Beyond Euclidean: Dual-Space Representation Learning for Weakly Supervised Video Violence Detection**  
