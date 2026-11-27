@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Zhanjie Wu (吴占杰), currently a master’s student at [OpenTVI](https://opentvi.github.io/), Chongqing University of Posts and Telecommunications. I am conducting research under the guidance of Prof. [Xinbo Gao](https://scholar.google.com/citations?user=VZVTOOIAAAAJ&hl=en&oi=ao) (IEEE Fellow) and primarily under the supervision of Prof. [Jiaxu Leng](https://scholar.google.com/citations?hl=en&user=KpX-CCcAAAAJ). Prior to that, I got my B.Eng. Degree from Chongqing University of Posts and Telecommunications.
 
-My main research focus is on Weakly-supervised Video Anomaly Detection, particularly the ambiguous anomaly issue within it.
+Hi, My name is Zhanjie Wu (吴占杰), currently a Ph.D. student at Xidian University, under the supervision of Prof. [Xinbo Gao](https://scholar.google.com/citations?user=VZVTOOIAAAAJ&hl=en&oi=ao) (IEEE Fellow) and Prof. [Jiaxu Leng](https://scholar.google.com/citations?hl=en&user=KpX-CCcAAAAJ). My main research focus is on Video Anomaly Understanding. Prior to that, I got my B.Eng. and M.Eng. Degrees from Chongqing University of Posts and Telecommunications, where I also conducted research under the same advisors at [OpenTVI](https://opentvi.github.io/).
 
 
 # 🔥 News
